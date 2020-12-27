@@ -1,12 +1,12 @@
-# Resume
+# Portpolio
 
 ---
 
 ###### 소개
 
-이름 : 이세욱
-나이 : 28(1993년생)
-이메일 : dyddl1993@gmail.com
+이름 : 이세욱 \n
+나이 : 28(1993년생) \n
+이메일 : dyddl1993@gmail.com \n
 깃헙 : github.com/saeu5407/
 
 ---
